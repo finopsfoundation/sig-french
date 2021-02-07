@@ -1,4 +1,4 @@
-# FinOps Foundation SIG Containers
+# FinOps Foundation SIG French
 
 Primary Authors: tbc
 
