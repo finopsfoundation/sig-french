@@ -4,12 +4,12 @@ Primary Authors: Antoine Lagier, Renaud Brosse
 
 Reviewed and Contributed to by: tbc
 
-# Introduction
+## Introduction
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the FinOps Foundation SIG French, which has been established as a Special Interest Group within the FinOps Project.
 This Charter shall be reviewed yearly and approved by the TAC
 
-# Mission Statement
+## Mission Statement
 
 The mission of the F2 SIG French is to scale the Finops Foundation on French-speaking communities.
 As such, its high-level mission is :
@@ -21,7 +21,7 @@ As such, its high-level mission is :
 
 Geography : initially, France and all other French-speaking communities.
 
-## General-purpose SIG Mission Statement
+### General-purpose SIG Mission Statement
 
 As a FinOps Foundation SIG, the activities of the French SIG are committed to respect the general-purpose missions of the FinOps Foundation SIGs :
 
@@ -30,7 +30,7 @@ As a FinOps Foundation SIG, the activities of the French SIG are committed to re
 1. **Assist and attract projects.** Helping to maintain the continued health of FinOps Foundation containers-related definitions. Focus attention and resources on helping foster project maturity, systematically across FinOps Foundation projects. Clarify relationship between projects, FinOps Foundation project staff, and community volunteers. Identify gaps in the landscape of FinOps Foundation containers definitions. Find and attract projects to fill these gaps through invitation to present, diligence on proposed projects, and in essence, act as a funnel for TAC project reviews in this area.
 1. **Afford impartial stewardship.** Provide and maintain a vendor neutral venue for relevant thought validation, discussion, and project feedback. Establish procedures to assist where necessary.
 
-## Detailed Objectives
+### Detailed Objectives
 
 - Engage the French Finops user communities by acting as a local Single Point of Contact, liaising with the TAC and other Finops Foundation groups for French-market related topics.
 - Promote Finops and Finops Foundation activities in France.
@@ -42,23 +42,21 @@ As a FinOps Foundation SIG, the activities of the French SIG are committed to re
 - Avoid creating a platform for politics between vendors.
 - Provide a ladder for community members to get involved with the technical oversight of FinOps Foundation projects. As part of this, SIGs are expected to actively nurture diverse participation.
 
-# Overlap and Relations with other Groups and Projects
+## Overlap and Relations with other Groups and Projects
 
 TBC
 
-# Responsibilities and Deliverables
+## Responsibilities and Deliverables
 
-Clarify and further concepts of containers within the FinOps scope.
-
-## Responsibilities
+### Responsibilities
 
 The French SIGs has no direct authority over FinOps Foundation projects.
 
 The French SIGs may choose to spawn focussed and time-limited working groups to achieve some of its responsibilities. Working groups should have a clearly documented charter, timeline (typically a few quarters at most), and set of deliverables. Once the timeline has elapsed, or the deliverables delivered, the working group dissolves, or is explicitly re-chartered.
 
-## Means of action
+### Means of action
 
-### General Means & Deliverables
+#### General Means & Deliverables
 
 - Organize events online or offline : regular meetups, finops French summit, … 
 - Work and sharing meetings
@@ -68,28 +66,28 @@ The French SIGs may choose to spawn focussed and time-limited working groups to 
 -Communicate through the FF website, newsletters, press, social networks and other media.
 - Maintain the Finops.world website
 
-### End User Education (Outbound Communication)
+#### End User Education (Outbound Communication)
 
 - Provide up-to-date, high quality, unbiased and easy-to-consume French material to help end users to understand and effectively adopt cloud-native technologies and practises within the SIG’s area, for example:
   - White papers, presentations, videos, or other forms of training clarifying terminology, comparisons of different approaches, available projects or products, common or recommended practises, trends, illustrative successes and failures, etc.
   - As far as possible, information should be based on research and fact gathering, rather than pure marketing or speculation.
 
-### End User Input Gathering (Inbound Communication)
+#### End User Input Gathering (Inbound Communication)
 
 - Gather and synthetize useful French community end user input and feedback regarding expectations, pain points, primary use cases etc.
 
-### Community Enablement
+#### Community Enablement
 
 - The French SIGs will be an open organization with meetings, meeting agendas and notes, mailing lists, and other communications in the open
 - The mailing list, SIG meeting calendar, and other communication documents of the SIG will be openly published and maintained
 
-# Governance and Operations
+## Governance and Operations
 
 This SIG follows the [standard operating model](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#operating-model) provided by the TOC unless otherwise stated here.
 
-# Operating Model
+## Operating Model
 
-## French SIG Members
+### French SIG Members
 
 Any person who is a member of the Finops Foundation is welcome to join the French SIG.
 Members must adhere to the Finops Foundation ethics, code of conduct and respect the present charter.
@@ -97,7 +95,7 @@ The French SIG will enforce a strict “no sales pitch” code of conduct.
 Participant diversity is strongly encouraged within the French SIG. The SIG chairs will actively encourage a diverse range of community members to take up named roles.
 A variety of perspectives is strongly encouraged. To this end, a supermajority (⅔ or more) of chairs or a supermajority of tech leads from a single group of related companies, market segment, etc will be actively discouraged by the Management Comitte.
 
-### Right & Duties of members
+#### Right & Duties of members
 
 Members may:
 
@@ -119,23 +117,23 @@ The chairs may vote to exclude members who:
 - Have been absent or inactive for more than a year.
 - Have violated the principles or code of conduct of the SIG. in particular any member entering into a self- or sales- promotion activity, or sales prospection, or otherwise using its access to members or the French SIGs resources for commercial activities will be excluded from the SIG.
 
-## Colleges
+### Colleges
 
 SIG Members will be assigned to one of the following three (3) colleges depending on their professional occupation:
 
-- Clients 
-- Software Vendors & Service Providers
-- Consultants
+1. Clients
+1. Software Vendors & Service Providers
+1. Consultants
 
 The SIG SAB & Chair may choose to restrict French SIG activities to members of some colleges.
 
-## Senior Advisory Board (SAB)
+### Senior Advisory Board (SAB)
 
 The Senior Advisory Board (SAB) is composed of 3 to 20 members, elected for 3 years among its members by the Management Committe upon nomination by the any group member.
 
 The SAB proposes the general orientations, editorial line, content policy and is the warrant of the value of the French SIG to its members and to the Finops Community.
 
-### Active members of the Senior Advisory Board (SAB)
+#### Active members of the Senior Advisory Board (SAB)
 
 The members of the SAB are:
 
@@ -149,7 +147,7 @@ The members of the SAB are:
 - Tristan Labaume
 - Thomas Rousseau
 
-## Chairs / Management Committe (MC)
+### Chairs / Management Committe (MC)
 
 The French SIG Management Committee (MC) manages the operations of the French SIG, with oversight from the SAB and Finops Foundation TAC.
 It is composed of up to 13 members who are elected as Chairs plus the TAC liaison who is a de-facto member of the SIG MC.
@@ -170,45 +168,42 @@ When a consensus cannot be reached on any given decision, members of the SIG MC 
 
 The Active Chairperson rotates every 3 months.
 
-### TAC Liaison
-
-
-### Active members of the Management Committee
+#### Active members of the Management Committee
 
 The members of the Management Committee are:
 
 - Frédéric Chomette
 - Renaud Brosse
 - Laurent Gauzi
-- Antoine Lagier ([TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison))
+- Antoine Lagier (also [TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison))
 - Aymeric Thas-pinot
 
-## Tech Leads
+### Tech Leads
 
 The Tech Leads:
 
 - Leads projects in the SIG’s area.
 - Has the time and ability to perform deep technical dives on projects. Projects may include formal FinOps Foundation projects or other projects in the area covered by the SIG.
 
-## Other named roles
+### Other named roles
 
 - Named and defined by the SIG (e.g. scribe, PR lead, docs/training lead, etc)
 - Approved by supermajority of the chairs.
 
-# Governance
+## Governance
 
 The French SIG shall develop a “minimal viable” documented governance process that encourages community participation and clear guidelines to avoid biased decision-making.
 
 All exceptions and disputes are handled by the French SIG MC, escalating to the TAC with FinOps Foundation Staff help if needed.
 
-## Key Meetings
+### Key Meetings
 
 - Project committees will meet regularly, depending on their requirements, and periodically report the French SIG MC.
 - The French SIG MC will meet bimonthly to manage the operational life of the SIG.
 - The Senior Advisory Board will meet at least 4 times a year.
 - A general assembly of the French SIG members may be organized from time to time to reflect on the SIG’s past activities and future directions.
 
-## Elections
+### Elections
 
 - The SIG members nominate SIG MC Chairs
 - Terms last for 2 years but staggered such that at least 1 of the chairs is able to maintain continuity
@@ -216,7 +211,7 @@ All exceptions and disputes are handled by the French SIG MC, escalating to the 
 - Tech leads are assigned following a majority vote of SIG Chairs
 - SIG Chairs and Tech Leads may be unassigned from the SIG at any time following a majority vote of the TAC or SIG MC.
 
-# Budget & Resource
+## Budget & Resource
 
 All functions are on a voluntary basis, and no member may receive retribution for his/her work. Expenses may be reimbursed upon prior approval by the SIG MC.
 
@@ -232,9 +227,9 @@ The SIG MC will present a yearly financial report to the TAC and to the French S
 
 ## Communications
 
-- Slack Channel ([#sig-french](https://finopsfoundation.slack.com/archives/CRZNNFEAG)
+- Slack Channel ([#sig-french](https://finopsfoundation.slack.com/archives/CRZNNFEAG))
 - Repo: [https://github.com/finopsfoundation/sig-french](https://github.com/finopsfoundation/sig-french)
-- Meetings: 
+- Meetings:
   - Time: every Wednesday on odd weeks at 5:30 Paris Time
   - Location: [teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmZlNDAxZWEtM2JhNy00ODA0LTlmZmItZDY0NzIxNTc3MGVh%40thread.v2/0?context=%7b%22Tid%22%3a%22a1ab1083-5751-48b3-ab60-fd2c35633764%22%2c%22Oid%22%3a%2232f3c250-2e8d-4e5b-97c5-3a45cade8b14%22%7d)
   - Meeting Minutes: tbc
