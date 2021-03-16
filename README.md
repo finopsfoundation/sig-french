@@ -6,20 +6,22 @@ Reviewed and Contributed to by: tbc
 
 ## Introduction
 
-This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the FinOps Foundation SIG French, which has been established as a Special Interest Group within the FinOps Project.
+This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the FinOps Foundation SIG French, which has been established as a Special Interest Group within the FinOps Project.  
 This Charter shall be reviewed yearly and approved by the TAC
 
 ## Mission Statement
 
 The mission of the F2 SIG French is to scale the Finops Foundation on French-speaking communities.
+
 As such, its high-level mission is :
 
 1. Promote, contribute, adapt and translate the contents produced by and with the FinOps Foundation
 1. Produce studies, best practices, guides, use cases ansd others deliverables to help members in their FinOps approach
-1. Raise awareness/evangelize the French-speaking ecosystem (decision-makers, practitioners...) to the challenges of financial and environmental sobriety Organize/reference FinOps trainings delivered by qualified external speakers.
-1. Animate a community of interest, allowing members to share their experiences during meetup and others events
+1. Raise awareness/evangelize the French-speaking ecosystem (decision-makers, practitioners...) to the challenges of financial and environmental sobriety.
+Organize/reference FinOps trainings delivered by qualified external speakers.
+1. Animate a community of interest, allowing members to share their experiences during meetup and others events. The SIG France meetup is available at 
 
-Geography : initially, France and all other French-speaking communities.
+**Geography**: initially, France and all other French-speaking communities.
 
 ### General-purpose SIG Mission Statement
 
@@ -35,8 +37,8 @@ As a FinOps Foundation SIG, the activities of the French SIG are committed to re
 - Engage the French Finops user communities by acting as a local Single Point of Contact, liaising with the TAC and other Finops Foundation groups for French-market related topics.
 - Promote Finops and Finops Foundation activities in France.
 - Educate and inform users with unbiased, effective, and practically useful information.
-- Translate, adapt, develop, publish & promote French Finops contents.
 - Develop, Maintain and adapt French content into English, where relevant. Specifically, develop, maintain and promote the finops.world web-based best practice framework.
+- Translate, adapt, develop, publish & promote French Finops contents.
 - Ensure proper representation of French community members in the various FinOps Foundation projects, other specific SIGs and staff
 - Reduce some project workload on TAC relating for Finops Foundation projects and goals towards French-speaking communities.
 - Avoid creating a platform for politics between vendors.
@@ -58,7 +60,7 @@ The French SIGs may choose to spawn focussed and time-limited working groups to 
 
 #### General Means & Deliverables
 
-- Organize events online or offline : regular meetups, finops French summit, … 
+- Organize events online or offline : regular meetups, finops French summit, …
 - Work and sharing meetings
 - Training sessions
 - Adaptation, translation and publication of Finops Foundation material in French
@@ -90,9 +92,9 @@ This SIG follows the [standard operating model](https://github.com/finopsfoundat
 ### French SIG Members
 
 Any person who is a member of the Finops Foundation is welcome to join the French SIG.
-Members must adhere to the Finops Foundation ethics, code of conduct and respect the present charter.
-The French SIG will enforce a strict “no sales pitch” code of conduct.
-Participant diversity is strongly encouraged within the French SIG. The SIG chairs will actively encourage a diverse range of community members to take up named roles.
+Members must adhere to the Finops Foundation ethics, code of conduct and respect the present charter.  
+The French SIG will enforce a strict “no sales pitch” code of conduct.  
+Participant diversity is strongly encouraged within the French SIG. The SIG chairs will actively encourage a diverse range of community members to take up named roles.  
 A variety of perspectives is strongly encouraged. To this end, a supermajority (⅔ or more) of chairs or a supermajority of tech leads from a single group of related companies, market segment, etc will be actively discouraged by the Management Comitte.
 
 #### Right & Duties of members
@@ -131,21 +133,21 @@ The SIG SAB & Chair may choose to restrict French SIG activities to members of s
 
 The Senior Advisory Board (SAB) is composed of 3 to 20 members, elected for 3 years among its members by the Management Committe upon nomination by the any group member.
 
-The SAB proposes the general orientations, editorial line, content policy and is the warrant of the value of the French SIG to its members and to the Finops Community.
+**The SAB proposes the general orientations, editorial line, content policy** and is the warrant of the value of the French SIG to its members and to the Finops Community.
 
 #### Active members of the Senior Advisory Board (SAB)
 
-The members of the SAB are:
+As of March 16, the members of the SAB are:
 
-- Marc Bernhard
-- Claire Clauss
-- Vincent Coudrin
-- Luc Debray
-- Herve Dumas
-- Alain Duval
-- Bruno Hourcan
-- Tristan Labaume
-- Thomas Rousseau
+- [Marc Bernhard](https://www.linkedin.com/in/marc-bernhard-9790612/)
+- [Claire Clauss](https://www.linkedin.com/in/claire-clauss-55a6691/)
+- [Vincent Coudrin](https://www.linkedin.com/in/vincent-coudrin-20026553/)
+- [Luc Debray](https://www.linkedin.com/in/luc-debray-7a665b28?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B0Mzu%2BmYKSRyCuZg9gnsTeQ%3D%3D)
+- [Herve Dumas](https://www.linkedin.com/in/herve-dumas-5914628?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BAlKarWmuRCuN%2Brg0KWqB8A%3D%3D)
+- [Alain Duval](https://www.linkedin.com/in/alain-duval-41b85b21?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BtaK8AWSvSGufBDANwgx6Gw%3D%3D)
+- [Bruno Hourcan](https://www.linkedin.com/in/bruno-hourcan-314699?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Ba8xxHS%2FiTv2TQ%2BQSLfxQ9g%3D%3D)
+- [Tristan Labaume](https://www.linkedin.com/in/tristanlabaume?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3ByGrz%2BCGMQD%2BJ8FBCLlwX8w%3D%3D)
+- [Thomas Rousseau](https://www.linkedin.com/in/rousseau-thomas-a639627?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BRKcB2fxDS96GQB%2BwdT%2Bknw%3D%3D)
 
 ### Chairs / Management Committe (MC)
 
@@ -205,7 +207,7 @@ All exceptions and disputes are handled by the French SIG MC, escalating to the 
 
 ### Elections
 
-- The SIG members nominate SIG MC Chairs
+- Any member of the French SIG can apply to the Management Committee. Applications will be validated by the MC according to the expertise and motivation of the candidates.
 - Terms last for 2 years but staggered such that at least 1 of the chairs is able to maintain continuity
 - The French SIG MC nominate Tech leads
 - Tech leads are assigned following a majority vote of SIG Chairs
