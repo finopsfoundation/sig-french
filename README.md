@@ -234,4 +234,5 @@ The SIG MC will present a yearly financial report to the TAC and to the French S
 - Meetings:
   - Time: every Wednesday on odd weeks at 5:30 Paris Time
   - Location: [teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmZlNDAxZWEtM2JhNy00ODA0LTlmZmItZDY0NzIxNTc3MGVh%40thread.v2/0?context=%7b%22Tid%22%3a%22a1ab1083-5751-48b3-ab60-fd2c35633764%22%2c%22Oid%22%3a%2232f3c250-2e8d-4e5b-97c5-3a45cade8b14%22%7d)
-  - Meeting Minutes: tbc
+  - Meeting Minutes: https://drive.google.com/file/d/158VEDzNuMfr_4vGAEZurb04KTnmJ-AUQ/view?usp=sharing
+  
