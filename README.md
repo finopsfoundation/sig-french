@@ -1,7 +1,8 @@
+![SIG France](./resources/SIGFrance-1.png)
+
 # FinOps Foundation SIG French
 
 Primary Authors: Antoine Lagier, Renaud Brosse
-
 Reviewed and Contributed to by: tbc
 
 ## Introduction
