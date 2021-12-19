@@ -176,13 +176,15 @@ The Active Chairperson rotates every 3 months.
 
 #### Active members of the Management Committee
 
-As of 2021 March 16, the members of the Management Committee are:
+The members of the Management Committee are:
 
-- [Frédéric Chomette](https://www.linkedin.com/in/frederic-chomette-947a1b2/)
-- [Renaud Brosse](https://www.linkedin.com/in/renaudbrosse/)
-- [Laurent Gauzi](https://www.linkedin.com/in/laurent-gauzi-30a28b/)
-- [Antoine Lagier](https://www.linkedin.com/in/alagier/) (also [TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison))
-- [Aymeric Thas-Pinot](https://www.linkedin.com/in/aymeric-thas-pinot/)
+- [Frédéric Chomette](https://www.linkedin.com/in/frederic-chomette-947a1b2/), initial member on March 16th
+- [Renaud Brosse](https://www.linkedin.com/in/renaudbrosse/), initial member on March 16th
+- [Laurent Gauzi](https://www.linkedin.com/in/laurent-gauzi-30a28b/), initial member on March 16th
+- [Antoine Lagier](https://www.linkedin.com/in/alagier/) (also [TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison)), initial member on March 16th
+- [Aymeric Thas-Pinot](https://www.linkedin.com/in/aymeric-thas-pinot/), initial member on March 16th
+- [Alexandre Fedi](https://www.linkedin.com/in/alexandre-fedi/), elected on December 16th
+
 
 ### Tech Leads
 
@@ -237,6 +239,7 @@ The SIG MC will present a yearly financial report to the TAC and to the French S
 - Repo: [https://github.com/finopsfoundation/sig-french](https://github.com/finopsfoundation/sig-french)
 - [Initial overview of the French SIG](https://drive.google.com/file/d/158VEDzNuMfr_4vGAEZurb04KTnmJ-AUQ/view?usp=sharing) during announcement
 - Management Committee Meetings:
-  - Time: every Wednesday on odd weeks at 5:30 Paris Time
-  - Location: [teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmZlNDAxZWEtM2JhNy00ODA0LTlmZmItZDY0NzIxNTc3MGVh%40thread.v2/0?context=%7b%22Tid%22%3a%22a1ab1083-5751-48b3-ab60-fd2c35633764%22%2c%22Oid%22%3a%2232f3c250-2e8d-4e5b-97c5-3a45cade8b14%22%7d)
-  - [Meeting Minutes](https://docs.google.com/document/d/1qj76ZI1d4vMos6vdQpAWK2e8HSTC3tuJQuhhSdqjg2Q/)
+  - Time: every thursday on odd weeks at 9:00 Paris Time
+  - Minutes:
+    - [2021 Meeting Minutes](https://docs.google.com/document/d/1qj76ZI1d4vMos6vdQpAWK2e8HSTC3tuJQuhhSdqjg2Q/)
+    - [2022 Meeting Minutes](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGYzM2RkNWEtMzg4ZS00ZTViLTlkY2EtYjJlYjljMWYwODc1%40thread.v2/0?context=%7b%22Tid%22%3a%22a1ab1083-5751-48b3-ab60-fd2c35633764%22%2c%22Oid%22%3a%2232f3c250-2e8d-4e5b-97c5-3a45cade8b14%22%7d)
