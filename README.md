@@ -20,7 +20,9 @@ As such, its high-level mission is :
 1. **Produce studies, best practices, guides, use cases ansd others deliverables** to help members in their FinOps approach
 1. **Raise awareness/evangelize the French-speaking ecosystem** (decision-makers, practitioners...) to the challenges of financial and environmental sobriety.
 Organize/reference FinOps trainings delivered by qualified external speakers.
-1. **Animate a community of interest**, allowing members to share their experiences during meetup and others events. The SIG France meetup is available at 
+1. **Animate a community of interest**, allowing members to share their experiences during meetup and others events.
+
+The SIG France meetup is available [here on meetup.com](https://www.meetup.com/fr-FR/finops-france-sig/) with now more than 1,200 members.  
 
 **Geography**: initially, France and all other French-speaking communities.
 
@@ -141,7 +143,7 @@ The Senior Advisory Board (SAB) is composed of 3 to 20 members, elected for 3 ye
 
 #### Active members of the Senior Advisory Board (SAB)
 
-As of 2021 March 16, the members of the SAB are:
+As of 2022 June 23, the members of the SAB are:
 
 - [Marc Bernhard](https://www.linkedin.com/in/marc-bernhard-9790612/)
 - [Claire Clauss](https://www.linkedin.com/in/claire-clauss-55a6691/)
@@ -178,12 +180,16 @@ The Active Chairperson rotates every 3 months.
 
 The members of the Management Committee are:
 
-- [Frédéric Chomette](https://www.linkedin.com/in/frederic-chomette-947a1b2/), initial member on March 16th
-- [Renaud Brosse](https://www.linkedin.com/in/renaudbrosse/), initial member on March 16th
-- [Laurent Gauzi](https://www.linkedin.com/in/laurent-gauzi-30a28b/), initial member on March 16th
-- [Antoine Lagier](https://www.linkedin.com/in/alagier/) (also [TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison)), initial member on March 16th
-- [Aymeric Thas-Pinot](https://www.linkedin.com/in/aymeric-thas-pinot/), initial member on March 16th
-- [Alexandre Fedi](https://www.linkedin.com/in/alexandre-fedi/), elected on December 16th
+- [Christophe Annereau](https://www.linkedin.com/in/christopheannereau/), elected on June 23th 2022 in place of Aymeric Thas-Pinot
+- [Renaud Brosse](https://www.linkedin.com/in/renaudbrosse/), initial member on March 16th 2021
+- [Laurent Gauzi](https://www.linkedin.com/in/laurent-gauzi-30a28b/), initial member on March 16th 2021
+- [Antoine Lagier](https://www.linkedin.com/in/alagier/) (also [TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison)), initial member on March 16th 2021
+- [Laurent Favre](https://www.linkedin.com/in/laurent-favre-363a7a13/), elected on June 23th 2022 in place of Aymeric Thas-Pinot
+- [Alexandre Fedi](https://www.linkedin.com/in/alexandre-fedi/), elected on December 16th 2021
+
+Former members of the MC are:
+- [Frédéric Chomette](https://www.linkedin.com/in/frederic-chomette-947a1b2/), initial member on March 16th 2021 until June 23th 2022.
+- [Aymeric Thas-Pinot](https://www.linkedin.com/in/aymeric-thas-pinot/), initial member on March 16th 2021 until June 23th 2022.
 
 
 ### Tech Leads
@@ -242,4 +248,4 @@ The SIG MC will present a yearly financial report to the TAC and to the French S
   - Time: every thursday on odd weeks at 9:00 Paris Time
   - Minutes:
     - [2021 Meeting Minutes](https://docs.google.com/document/d/1qj76ZI1d4vMos6vdQpAWK2e8HSTC3tuJQuhhSdqjg2Q/)
-    - [2022 Meeting Minutes](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGYzM2RkNWEtMzg4ZS00ZTViLTlkY2EtYjJlYjljMWYwODc1%40thread.v2/0?context=%7b%22Tid%22%3a%22a1ab1083-5751-48b3-ab60-fd2c35633764%22%2c%22Oid%22%3a%2232f3c250-2e8d-4e5b-97c5-3a45cade8b14%22%7d)
+    - [2022 Meeting Minutes](https://docs.google.com/spreadsheets/d/1I0m8kuS9CgL1hPbWkdbbPtS_lp1ds87L5pjALejz4ow/edit?usp=sharing)
