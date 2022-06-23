@@ -22,7 +22,7 @@ As such, its high-level mission is :
 Organize/reference FinOps trainings delivered by qualified external speakers.
 1. **Animate a community of interest**, allowing members to share their experiences during meetup and others events.
 
-The SIG France meetup is available [here on meetup.com](https://www.meetup.com/fr-FR/finops-france-sig/) with now more than 1,200 members.  
+The SIG France meetup is available [here on meetup.com](https://www.meetup.com/fr-FR/finops-france-sig/) with more than 1,200 members on June 2022.  
 
 **Geography**: initially, France and all other French-speaking communities.
 
@@ -180,16 +180,16 @@ The Active Chairperson rotates every 3 months.
 
 The members of the Management Committee are:
 
-- [Christophe Annereau](https://www.linkedin.com/in/christopheannereau/), elected on June 23th 2022 in place of Aymeric Thas-Pinot
-- [Renaud Brosse](https://www.linkedin.com/in/renaudbrosse/), initial member on March 16th 2021
-- [Laurent Gauzi](https://www.linkedin.com/in/laurent-gauzi-30a28b/), initial member on March 16th 2021
-- [Antoine Lagier](https://www.linkedin.com/in/alagier/) (also [TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison)), initial member on March 16th 2021
-- [Laurent Favre](https://www.linkedin.com/in/laurent-favre-363a7a13/), elected on June 23th 2022 in place of Aymeric Thas-Pinot
 - [Alexandre Fedi](https://www.linkedin.com/in/alexandre-fedi/), elected on December 16th 2021
+- [Antoine Lagier](https://www.linkedin.com/in/alagier/) (also [TAC Liaison](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#tac-liaison)), initial member on March 16th 2021
+- [Christophe Annereau](https://www.linkedin.com/in/christopheannereau/), elected on June 23th 2022 in place of Frédéric Chomette
+- [Laurent Gauzi](https://www.linkedin.com/in/laurent-gauzi-30a28b/), initial member on March 16th 2021
+- [Laurent Favre](https://www.linkedin.com/in/laurent-favre-363a7a13/), elected on June 23th 2022 in place of Aymeric Thas-Pinot
+- [Renaud Brosse](https://www.linkedin.com/in/renaudbrosse/), initial member on March 16th 2021
 
 Former members of the MC are:
-- [Frédéric Chomette](https://www.linkedin.com/in/frederic-chomette-947a1b2/), initial member on March 16th 2021 until June 23th 2022.
 - [Aymeric Thas-Pinot](https://www.linkedin.com/in/aymeric-thas-pinot/), initial member on March 16th 2021 until June 23th 2022.
+- [Frédéric Chomette](https://www.linkedin.com/in/frederic-chomette-947a1b2/), initial member on March 16th 2021 until June 23th 2022.
 
 
 ### Tech Leads
